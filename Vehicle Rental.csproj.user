@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDimBackground.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UCCarSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCCarsTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCCheckout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCCheckoutCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCCheckoutGcash.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCDriverInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCDriverInformationTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCHomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCSchedule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCScheduleTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCUpdateLogTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
